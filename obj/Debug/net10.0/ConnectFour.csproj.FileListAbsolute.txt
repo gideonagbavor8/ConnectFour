@@ -82,5 +82,6 @@ D:\ConnectFour\ConnectFour\obj\Debug\net10.0\ConnectFour.pdb
 D:\ConnectFour\ConnectFour\obj\Debug\net10.0\ConnectFour.genruntimeconfig.cache
 D:\ConnectFour\ConnectFour\obj\Debug\net10.0\ref\ConnectFour.dll
 D:\ConnectFour\ConnectFour\obj\Debug\net10.0\scopedcss\Components\Board.razor.rz.scp.css
-D:\ConnectFour\ConnectFour\obj\Debug\net10.0\compressed\8t7ubqbmk6-{0}-4iss80ddjp-4iss80ddjp.gz
-D:\ConnectFour\ConnectFour\obj\Debug\net10.0\compressed\qps0edvuu1-{0}-4iss80ddjp-4iss80ddjp.gz
+D:\ConnectFour\ConnectFour\obj\Debug\net10.0\ConnectFour.sourcelink.json
+D:\ConnectFour\ConnectFour\obj\Debug\net10.0\compressed\8t7ubqbmk6-{0}-r0ngim70lj-r0ngim70lj.gz
+D:\ConnectFour\ConnectFour\obj\Debug\net10.0\compressed\qps0edvuu1-{0}-r0ngim70lj-r0ngim70lj.gz
